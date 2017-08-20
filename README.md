@@ -1,2 +1,2 @@
 # CRUD-PHP
-<h2>CRUD simples em PHP e Bootstrap</h2>
+<p>CRUD simples em PHP e Bootstrap</p>
