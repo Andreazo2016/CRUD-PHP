@@ -1,0 +1,9 @@
+{
+  "db_user": "root",
+  "db_pass": "solonopole",
+  "db_host": "localhost",
+  "db_port": "3306",
+  "db_driver": "mysql",
+  "db_name": "phpteste",
+  "db_charset": "utf8"
+}
